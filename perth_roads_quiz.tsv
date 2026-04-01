@@ -1,0 +1,109 @@
+ID	HINT	HINT	ANSWER	TYPEIN	TYPEIN
+SVG Path	Road Type	Route	Road Name	Alternate	Alternate 2
+abernethy-road	Arterial Road	State Route 55	Abernethy Road
+albany-highway	Highway	State Route 30	Albany Highway
+alexander-drive	Arterial Road	State Route 56	Alexander Drive
+armadale-road	Arterial Road	State Route 14	Armadale Road
+bannister-road	Arterial Road		Bannister Road
+beach-road	Arterial Road		Beach Road
+beaufort-street	Arterial Road	State Route 53	Beaufort Street
+beeliar-drive	Arterial Road	State Route 14	Beeliar Drive
+benara-road	Arterial Road	State Route 76	Benara Road
+berrigan-drive	Arterial Road		Berrigan Drive
+the-boulevard	Arterial Road	State Route 72	The Boulevard
+brookton-highway	Highway	State Route 40	Brookton Highway
+broun-avenue	Arterial Road	State Route 53	Broun Avenue
+burns-beach-road	Arterial Road	State Route 87	Burns Beach Road
+canning-highway	Highway	National Route 1 / State Route 6	Canning Highway
+canning-road	Arterial Road	State Route 41	Canning Road
+charles-street	Arterial Road	State Route 60	Charles Street
+cockburn-road	Arterial Road	State Route 12	Cockburn Road
+collier-road	Arterial Road		Collier Road
+connolly-drive	Arterial Road		Connolly Drive
+corfield-street	Arterial Road	State Route 36	Corfield Street
+crimea-street	Arterial Road		Crimea Street
+curtin-avenue	Arterial Road	State Route 71	Curtin Avenue
+drumpellier-drive	Arterial Road		Drumpellier Drive		r:^DRUM?P+EL+IER
+ennis-avenue	Arterial Road	National Route 1	Ennis Avenue	r:^EN+IS
+farrington-road	Arterial Road		Farrington Road	r:^FAR+INGTON
+fitzgerald-street	Arterial Road	State Route 56	Fitzgerald Street
+garratt-road	Arterial Road	State Route 55	Garratt Road	r:^GAR+AT+
+gnangara-road	Arterial Road	State Route 83	Gnangara Road
+graham-farmer-freeway	Freeway	State Route 8	Graham Farmer Freeway
+grand-boulevard	Arterial Road		Grand Boulevard
+grand-promenade	Arterial Road	State Route 55	Grand Promenade
+great-eastern-highway	Highway	National Highway 94 / State Route 51	Great Eastern Highway
+great-eastern-highway-bypass	Highway	National Highway 94	Great Eastern Highway Bypass
+great-northern-highway	Highway	National Highway 95	Great Northern Highway
+guildford-road	Arterial Road	State Route 51	Guildford Road
+hampton-road	Arterial Road	State Route 12	Hampton Road
+hepburn-avenue	Arterial Road	State Route 82	Hepburn Avenue
+high-road	Arterial Road	State Route 27	High Road
+high-street	Arterial Road	State Route 7	High Street
+hodges-drive	Arterial Road		Hodges Drive
+joondalup-drive	Arterial Road	State Route 85	Joondalup Drive
+kalamunda-road	Arterial Road	State Route 41	Kalamunda Road
+karel-avenue	Arterial Road		Karel Avenue
+karrinyup-road	Arterial Road	State Route 76	Karrinyup Road	r:^KAR+IN?YUP
+kenwick-link	Arterial Road	State Route 30	Kenwick Link
+kewdale-road	Arterial Road		Kewdale Road
+kwinana-freeway	Freeway	National Route 1 / State Route 2	Kwinana Freeway
+leach-highway	Highway	National Route 1 / State Route 7	Leach Highway
+loftus-street	Arterial Road	State Route 61	Loftus Street
+lord-street	Arterial Road	State Route 51	Lord Street
+malaga-drive	Arterial Road		Malaga Drive
+mandurah-road	Arterial Road	National Route 1 / State Route 22	Mandurah Road
+manning-road	Arterial Road	State Route 26	Manning Road
+marangaroo-drive	Arterial Road	State Route 81	Marangaroo Drive	r:^MARAN?GAROO
+marmion-avenue	Arterial Road	State Route 71	Marmion Avenue	r:^MAR+MION
+marshall-road	Arterial Road		Marshall Road
+mirrabooka-avenue	Arterial Road		Mirrabooka Avenue	r:^MIR+ABOOKA
+mitchell-freeway	Freeway	State Route 2	Mitchell Freeway
+morley-drive	Arterial Road	State Route 76	Morley Drive
+morley-drive-east	Arterial Road	State Route 76	Morley Drive East
+morrison-road	Arterial Road	National Route 1	Morrison Road
+mounts-bay-road	Arterial Road	State Route 5	Mounts Bay Road
+mundijong-road	Arterial Road	State Route 22	Mundijong Road
+neaves-road	Arterial Road	State Route 85	Neaves Road
+nicholson-road	Arterial Road	State Route 31	Nicholson Road
+north-beach-road	Arterial Road	State Route 77	North Beach Road
+north-lake-road	Arterial Road		North Lake Road
+ocean-reef-road	Arterial Road	State Route 84	Ocean Reef Road
+orrong-road	Arterial Road	State Route 8	Orrong Road
+patterson-road	Arterial Road	National Route 1 / State Route 18	Patterson Road	r:^PAT+ERSON
+pearson-street	Arterial Road	State Route 64	Pearson Street
+ranford-road	Arterial Road	State Route 13	Ranford Road
+reid-highway	Highway	State Route 3	Reid Highway
+riverside-drive	Arterial Road	State Route 5	Riverside Drive
+rockingham-road	Arterial Road	National Route 1 / State Route 14	Rockingham Road
+roe-highway	Highway	National Highway 94 / State Route 3	Roe Highway
+russell-road	Arterial Road		Russell Road
+safety-bay-road	Arterial Road	State Route 18	Safety Bay Road
+scarborough-beach-road	Arterial Road	State Route 75	Scarborough Beach Road
+selby-street	Arterial Road	State Route 64	Selby Street
+shenton-avenue	Arterial Road		Shenton Avenue
+shepperton-road	Arterial Road	State Route 30	Shepperton Road	r:^SHEP+ERTON
+south-street	Arterial Road	State Route 13	South Street
+south-western-highway	Highway	State Route 20	South Western Highway
+spearwood-avenue	Arterial Road	State Route 14	Spearwood Avenue
+spencer-road	Arterial Road	State Route 36	Spencer Road
+stephenson-avenue	Arterial Road	State Route 64	Stephenson Avenue
+stirling-highway	Highway	State Route 5	Stirling Highway
+stock-road	Arterial Road	National Route 1	Stock Road
+thomas-road	Arterial Road	State Route 21	Thomas Road
+thomas-street	Arterial Road	State Route 61	Thomas Street
+tonkin-highway	Highway	State Route 4	Tonkin Highway
+toodyay-road	Arterial Road	State Route 50	Toodyay Road
+tydeman-road	Arterial Road		Tydeman Road
+vahland-avenue	Arterial Road		Vahland Avenue
+vincent-street	Arterial Road	State Route 72	Vincent Street
+walcott-street	Arterial Road	State Route 75	Walcott Street	r:^WALCOT+
+wanneroo-road	Arterial Road	State Route 60	Wanneroo Road	r:^WAN+EROO
+warton-road	Arterial Road		Warton Road
+welshpool-road	Arterial Road		Welshpool Road
+welshpool-road-east	Arterial Road	State Route 8	Welshpool Road East
+west-coast-highway	Highway	State Route 71	West Coast Highway
+west-swan-road	Arterial Road	State Route 52	West Swan Road
+whitfords-avenue	Arterial Road	State Route 83	Whitfords Avenue	r:^WHIT?FORDS
+william-street	Arterial Road	State Route 53	William Street
+yanchep-beach-road	Arterial Road		Yanchep Beach Road	r:^YANCHEP

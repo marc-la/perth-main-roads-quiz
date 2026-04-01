@@ -1,0 +1,226 @@
+name	ref	highway	quiz_id	stroke	stroke-width	opacity	len_m
+Mounts Bay Road	5	primary	mounts-bay-road	#bca79f	1.4	0.78	9449.726993822182
+Barrack Street	5;53	primary	barrack-street	#bca79f	1.4	0.78	943.6757091709962
+Adelaide Terrace		trunk	adelaide-terrace	#a1887f	1.8	0.82	2717.179883285632
+Mitchell Freeway	2	motorway	mitchell-freeway	#8c6d62	2.2	0.85	80205.04218427118
+Kwinana Freeway	2	motorway	kwinana-freeway	#8c6d62	2.2	0.85	103613.37649594765
+William Street	53	primary	william-street	#bca79f	1.4	0.78	11563.730525547338
+Alexander Drive	56	primary	alexander-drive	#bca79f	1.4	0.78	29905.118354126564
+Stirling Highway	5	trunk	stirling-highway	#a1887f	1.8	0.82	25189.59711214243
+Winthrop Avenue	61	primary	winthrop-avenue	#bca79f	1.4	0.78	2482.5965106477124
+Erindale Road		primary	erindale-road	#bca79f	1.4	0.78	9004.949330076473
+Hepburn Avenue	82	primary	hepburn-avenue	#bca79f	1.4	0.78	34546.288569680306
+Marmion Avenue	71	trunk	marmion-avenue	#a1887f	1.8	0.82	52821.35161061714
+Reid Highway	3	trunk	reid-highway	#a1887f	1.8	0.82	47100.8334034913
+Beach Road		primary	beach-road	#bca79f	1.4	0.78	22370.21935796242
+Vincent Street	72	primary	vincent-street	#bca79f	1.4	0.78	4890.250178865269
+Loftus Street	61	primary	loftus-street	#bca79f	1.4	0.78	3928.327441504228
+Fitzgerald Street		primary	fitzgerald-street	#bca79f	1.4	0.78	4424.7579869540505
+Thomas Street	61	primary	thomas-street	#bca79f	1.4	0.78	6535.496355048874
+Ocean Reef Road	84	primary	ocean-reef-road	#bca79f	1.4	0.78	26267.22946343447
+Warwick Road	81	primary	warwick-road	#bca79f	1.4	0.78	11247.091554717123
+Lake Monger Drive	72	primary	lake-monger-drive	#bca79f	1.4	0.78	2952.377688773484
+Southport Street		primary	southport-street	#bca79f	1.4	0.78	1098.6059531098488
+Charles Street	60	trunk	charles-street	#a1887f	1.8	0.82	4695.024217376679
+London Street	61	primary	london-street	#bca79f	1.4	0.78	2328.2489917897256
+Malaga Drive		primary	malaga-drive	#bca79f	1.4	0.78	2290.615904013973
+Karrinyup Road	76	trunk	karrinyup-road	#a1887f	1.8	0.82	13205.711258935167
+Oxford Street		primary	oxford-street	#bca79f	1.4	0.78	1695.5208918451372
+West Coast Highway	71;204	trunk	west-coast-highway	#a1887f	1.8	0.82	24914.170460780955
+Joondalup Drive	85	primary	joondalup-drive	#bca79f	1.4	0.78	24423.38434466535
+Curtin Avenue		primary	curtin-avenue	#bca79f	1.4	0.78	7209.558867852106
+Eric Street	71	primary	eric-street	#bca79f	1.4	0.78	740.1055460963585
+Cedric Street		primary	cedric-street	#bca79f	1.4	0.78	3663.5481910763147
+Hutton Street		primary	hutton-street	#bca79f	1.4	0.78	3543.1983162862552
+Whitfords Avenue	83	primary	whitfords-avenue	#bca79f	1.4	0.78	19172.91826988362
+Nollamara Avenue		primary	nollamara-avenue	#bca79f	1.4	0.78	4653.9171719301
+Main Street		primary	main-street	#bca79f	1.4	0.78	7183.442686545413
+Wanneroo Road	60	trunk	wanneroo-road	#a1887f	1.8	0.82	63871.225455756445
+Burns Beach Road		primary	burns-beach-road	#bca79f	1.4	0.78	7732.854391132537
+Graham Farmer Freeway	8	motorway	graham-farmer-freeway	#8c6d62	2.2	0.85	13625.279999370548
+Roe Highway	3	motorway	roe-highway	#8c6d62	2.2	0.85	71630.90868739702
+Great Eastern Highway Bypass	94	trunk	great-eastern-highway-bypass	#a1887f	1.8	0.82	11221.02618270176
+Canning Highway	6	trunk	canning-highway	#a1887f	1.8	0.82	26963.002915412013
+South Street	13	trunk	south-street	#a1887f	1.8	0.82	25730.00689656276
+Mirrabooka Avenue		primary	mirrabooka-avenue	#bca79f	1.4	0.78	17139.80169072278
+Marangaroo Drive	81	primary	marangaroo-drive	#bca79f	1.4	0.78	11081.475583547355
+Great Eastern Highway	94;1	trunk	great-eastern-highway	#a1887f	1.8	0.82	40288.7252154258
+Causeway	5	trunk	causeway	#a1887f	1.8	0.82	2649.389033937015
+West Swan Road	52;203	primary	west-swan-road	#bca79f	1.4	0.78	16393.129437072046
+Gnangara Road	83;84	primary	gnangara-road	#bca79f	1.4	0.78	30722.03751414731
+Walcott Street	75	primary	walcott-street	#bca79f	1.4	0.78	5040.62116152912
+Green Street	75	primary	green-street	#bca79f	1.4	0.78	1920.0059179434525
+Crimea Street		primary	crimea-street	#bca79f	1.4	0.78	5260.1895574716045
+Alfred Road		primary	alfred-road	#bca79f	1.4	0.78	4527.581659794881
+Wellington Street	65	primary	wellington-street	#bca79f	1.4	0.78	7062.974463409153
+Railway Road		primary	railway-road	#bca79f	1.4	0.78	5801.418051707459
+Gugeri Street		primary	gugeri-street	#bca79f	1.4	0.78	2991.830820974384
+Plain Street	65	primary	plain-street	#bca79f	1.4	0.78	2402.7130843087516
+Kings Park Road		primary	kings-park-road	#bca79f	1.4	0.78	2182.6827794008314
+Stock Road	1	trunk	stock-road	#a1887f	1.8	0.82	22673.127367168378
+Phoenix Road		primary	phoenix-road	#bca79f	1.4	0.78	6233.632919305024
+High Street	7	trunk	high-street	#a1887f	1.8	0.82	3909.8936523487055
+Cambridge Street		primary	cambridge-street	#bca79f	1.4	0.78	7374.691262856854
+The Boulevard		primary	the-boulevard	#bca79f	1.4	0.78	9699.149624307598
+Orrong Road	8	trunk	orrong-road	#a1887f	1.8	0.82	15828.63418153793
+James Street	1;51	trunk	james-street	#a1887f	1.8	0.82	3484.036269273113
+Guildford Road	51	trunk	guildford-road	#a1887f	1.8	0.82	13355.393365513286
+East Parade	66	trunk	east-parade	#a1887f	1.8	0.82	3034.973136151529
+Canning Road	41	primary	canning-road	#bca79f	1.4	0.78	10712.522414717387
+East Street	1;51	trunk	east-street	#a1887f	1.8	0.82	996.1221485886451
+Kalamunda Road	41	primary	kalamunda-road	#bca79f	1.4	0.78	15424.103037304018
+Morrison Road		primary	morrison-road	#bca79f	1.4	0.78	10793.756394213768
+Hay Street		primary	hay-street	#bca79f	1.4	0.78	6046.200174067567
+St Georges Terrace		primary	st-georges-terrace	#bca79f	1.4	0.78	3317.481706142795
+Oceanic Drive		primary	oceanic-drive	#bca79f	1.4	0.78	6861.108136437566
+Underwood Avenue	65	primary	underwood-avenue	#bca79f	1.4	0.78	2379.406459852784
+Burslem Drive		primary	burslem-drive	#bca79f	1.4	0.78	4393.903781678042
+Fremantle Road	36	primary	fremantle-road	#bca79f	1.4	0.78	3241.5599633919173
+Spencer Road	36	primary	spencer-road	#bca79f	1.4	0.78	10646.586846697508
+Nicholson Road	31	primary	nicholson-road	#bca79f	1.4	0.78	37804.325146958574
+Warton Road		primary	warton-road	#bca79f	1.4	0.78	19700.984988909237
+Grantham Street	72	primary	grantham-street	#bca79f	1.4	0.78	4028.882794580267
+Hale Road		primary	hale-road	#bca79f	1.4	0.78	6387.78377357013
+Huntriss Road		primary	huntriss-road	#bca79f	1.4	0.78	3596.473555734731
+Beechboro Road North	53	primary	beechboro-road-north	#bca79f	1.4	0.78	12253.442944318496
+Welshpool Road East	8	primary	welshpool-road-east	#bca79f	1.4	0.78	17525.14084749141
+Safety Bay Road	18	primary	safety-bay-road	#bca79f	1.4	0.78	23639.507566927365
+Shepperton Road	30	trunk	shepperton-road	#a1887f	1.8	0.82	7507.926121258356
+Albany Highway		primary	albany-highway	#bca79f	1.4	0.78	64788.10901538296
+Welshpool Road		primary	welshpool-road	#bca79f	1.4	0.78	8932.735340305708
+Leach Highway	7	motorway	leach-highway	#8c6d62	2.2	0.85	38748.57294461027
+Tonkin Highway	4	motorway	tonkin-highway	#8c6d62	2.2	0.85	145627.40015113354
+Brookton Highway	40	trunk	brookton-highway	#a1887f	1.8	0.82	11942.637280238348
+Armadale Road	14	trunk	armadale-road	#a1887f	1.8	0.82	33013.808416493695
+Ranford Road	13	primary	ranford-road	#bca79f	1.4	0.78	23298.488710030746
+Kewdale Road		primary	kewdale-road	#bca79f	1.4	0.78	6614.801266345799
+Horrie Miller Drive		primary	horrie-miller-drive	#bca79f	1.4	0.78	7744.580812193969
+Newcastle Street		primary	newcastle-street	#bca79f	1.4	0.78	5705.72439794944
+Bulwer Street	72	primary	bulwer-street	#bca79f	1.4	0.78	2852.808487635731
+Hill Street	51	primary	hill-street	#bca79f	1.4	0.78	229.58598429571808
+Lord Street	51	primary	lord-street	#bca79f	1.4	0.78	5619.222452390283
+Beaufort Street	53	primary	beaufort-street	#bca79f	1.4	0.78	10608.274371725944
+Railway Parade		primary	railway-parade	#bca79f	1.4	0.78	3088.6093196554634
+Neaves Road	85;359	primary	neaves-road	#bca79f	1.4	0.78	20544.497855788988
+Brockway Road		primary	brockway-road	#bca79f	1.4	0.78	4739.431107883578
+Brookdale Street		primary	brookdale-street	#bca79f	1.4	0.78	1662.5255483001856
+Hampton Road	12	primary	hampton-road	#bca79f	1.4	0.78	4983.282349009635
+Walter Road East		primary	walter-road-east	#bca79f	1.4	0.78	3580.3875803500687
+Balcatta Road	78	primary	balcatta-road	#bca79f	1.4	0.78	5002.722684895237
+Morley Drive East	76	primary	morley-drive-east	#bca79f	1.4	0.78	4615.90445256884
+Altone Road		primary	altone-road	#bca79f	1.4	0.78	4779.104587775241
+Selby Street	64	primary	selby-street	#bca79f	1.4	0.78	6206.873520455556
+Pearson Street	64	primary	pearson-street	#bca79f	1.4	0.78	5217.759032358256
+Brisbane Street	53	primary	brisbane-street	#bca79f	1.4	0.78	307.13236505747034
+Kenwick Link	30	trunk	kenwick-link	#a1887f	1.8	0.82	6714.818746822826
+Hayman Road		primary	hayman-road	#bca79f	1.4	0.78	5477.532750503357
+High Road	27	primary	high-road	#bca79f	1.4	0.78	10950.331779285676
+Queen Victoria Street	12	primary	queen-victoria-street	#bca79f	1.4	0.78	757.4446481567172
+Camboon Road		primary	camboon-road	#bca79f	1.4	0.78	2352.9366034031787
+Wellington Road		primary	wellington-road	#bca79f	1.4	0.78	2368.898296199245
+Broun Avenue	53	primary	broun-avenue	#bca79f	1.4	0.78	6399.982398086547
+Kent Street		primary	kent-street	#bca79f	1.4	0.78	5741.183155769422
+Mandurah Road		primary	mandurah-road	#bca79f	1.4	0.78	12922.504426585218
+Rockingham Road	1	trunk	rockingham-road	#a1887f	1.8	0.82	32772.647568477114
+Patterson Road	1	trunk	patterson-road	#a1887f	1.8	0.82	13928.420779513548
+Riverside Drive	5	primary	riverside-drive	#bca79f	1.4	0.78	4347.021533775109
+Beechboro Road South		primary	beechboro-road-south	#bca79f	1.4	0.78	1999.9228863452681
+Ellen Stirling Boulevard		primary	ellen-stirling-boulevard	#bca79f	1.4	0.78	2327.542642899152
+Jon Sanders Drive		primary	jon-sanders-drive	#bca79f	1.4	0.78	5992.265081376383
+South Western Highway	22;206	trunk	south-western-highway	#a1887f	1.8	0.82	33324.84378915663
+Benara Road	76	primary	benara-road	#bca79f	1.4	0.78	10919.779295933338
+Beeliar Drive		trunk	beeliar-drive	#a1887f	1.8	0.82	14988.062257031677
+Ennis Avenue	1	trunk	ennis-avenue	#a1887f	1.8	0.82	26911.35523775312
+Olga Road		primary	olga-road	#bca79f	1.4	0.78	1297.507504370653
+Kelvin Road		primary	kelvin-road	#bca79f	1.4	0.78	6322.283715474424
+Thomas Road	21	trunk	thomas-road	#a1887f	1.8	0.82	32201.42209286434
+Read Street		primary	read-street	#bca79f	1.4	0.78	11374.683467443405
+Warnbro Sound Avenue		primary	warnbro-sound-avenue	#bca79f	1.4	0.78	18067.90224657963
+Lake Road		primary	lake-road	#bca79f	1.4	0.78	12002.533608635062
+Champion Drive		primary	champion-drive	#bca79f	1.4	0.78	4615.906448097171
+Corfield Street		primary	corfield-street	#bca79f	1.4	0.78	10236.30758176774
+Lawson Street		primary	lawson-street	#bca79f	1.4	0.78	1173.990372436042
+Douglas Avenue		primary	douglas-avenue	#bca79f	1.4	0.78	1065.7353024822664
+Karel Avenue		primary	karel-avenue	#bca79f	1.4	0.78	11248.045692727925
+Belgravia Street	55	primary	belgravia-street	#bca79f	1.4	0.78	1231.3768391826543
+Grandstand Road	55	primary	grandstand-road	#bca79f	1.4	0.78	1955.5158537405089
+Garratt Road	55	primary	garratt-road	#bca79f	1.4	0.78	2665.893005615751
+Rae Road		primary	rae-road	#bca79f	1.4	0.78	4051.6044216016135
+Harborne Street		primary	harborne-street	#bca79f	1.4	0.78	6233.492760212019
+Powis Street		primary	powis-street	#bca79f	1.4	0.78	1495.8483268562013
+Yirrigan Drive		primary	yirrigan-drive	#bca79f	1.4	0.78	4884.807696153317
+Ravenswood Drive		primary	ravenswood-drive	#bca79f	1.4	0.78	3269.95437182929
+Morley Drive	76	trunk	morley-drive	#a1887f	1.8	0.82	19513.11144294975
+Kulija Road	22	primary	kulija-road	#bca79f	1.4	0.78	5000.982199140034
+Mundijong Road	22	primary	mundijong-road	#bca79f	1.4	0.78	13395.086258581467
+Gilmore Avenue		primary	gilmore-avenue	#bca79f	1.4	0.78	13237.377245940716
+Wellard Road		primary	wellard-road	#bca79f	1.4	0.78	2071.174972069446
+Grand Promenade	55	primary	grand-promenade	#bca79f	1.4	0.78	10042.473129053677
+Dianella Drive		primary	dianella-drive	#bca79f	1.4	0.78	3131.872161783469
+Russell Road		primary	russell-road	#bca79f	1.4	0.78	9744.926889164584
+Midgegooroo Avenue		primary	midgegooroo-avenue	#bca79f	1.4	0.78	1120.5799142300198
+North Lake Road		primary	north-lake-road	#bca79f	1.4	0.78	25065.186239966286
+Berrigan Drive		primary	berrigan-drive	#bca79f	1.4	0.78	7413.473357397667
+Frobisher Street		primary	frobisher-street	#bca79f	1.4	0.78	2112.270084851033
+Scarborough Beach Road	75	primary	scarborough-beach-road	#bca79f	1.4	0.78	14235.797655839013
+Flynn Street	64	primary	flynn-street	#bca79f	1.4	0.78	841.9405206731262
+Howtree Place		primary	howtree-place	#bca79f	1.4	0.78	1010.250356717162
+Hill View Terrace		primary	hill-view-terrace	#bca79f	1.4	0.78	2622.838817340273
+Berwick Street		primary	berwick-street	#bca79f	1.4	0.78	6081.119042232045
+Riseley Street		trunk	riseley-street	#a1887f	1.8	0.82	6134.945773515171
+Marmion Street		primary	marmion-street	#bca79f	1.4	0.78	14613.570423304733
+Central Avenue		primary	central-avenue	#bca79f	1.4	0.78	2939.423707069783
+Walter Road West		primary	walter-road-west	#bca79f	1.4	0.78	9803.51041632777
+King William Street		primary	king-william-street	#bca79f	1.4	0.78	1089.2402033993126
+Shenton Avenue		primary	shenton-avenue	#bca79f	1.4	0.78	4939.3937459053595
+Collier Road		primary	collier-road	#bca79f	1.4	0.78	7340.365840347904
+Port Beach Road		primary	port-beach-road	#bca79f	1.4	0.78	4030.4131059020037
+Victoria Street		primary	victoria-street	#bca79f	1.4	0.78	1533.0321254350042
+Swan View Road		primary	swan-view-road	#bca79f	1.4	0.78	1537.2456302251824
+Old York Road		primary	old-york-road	#bca79f	1.4	0.78	1971.9036610946837
+Manning Road	26	primary	manning-road	#bca79f	1.4	0.78	12961.757780273889
+Oats Street		primary	oats-street	#bca79f	1.4	0.78	2684.594293580336
+Amelia Street		primary	amelia-street	#bca79f	1.4	0.78	1966.4812368142282
+Widgee Road		primary	widgee-road	#bca79f	1.4	0.78	1165.2912314201778
+Coode Street		primary	coode-street	#bca79f	1.4	0.78	3653.012615947193
+Fairbrother Street	55	primary	fairbrother-street	#bca79f	1.4	0.78	774.8951387536067
+Royal Street		primary	royal-street	#bca79f	1.4	0.78	1994.309847706661
+Cockburn Road	12	primary	cockburn-road	#bca79f	1.4	0.78	13030.397693872681
+Hodges Drive		primary	hodges-drive	#bca79f	1.4	0.78	5268.1800519694125
+Stubbs Terrace		primary	stubbs-terrace	#bca79f	1.4	0.78	3086.5603592571933
+Roberts Road		primary	roberts-road	#bca79f	1.4	0.78	1887.122415922125
+Johnson Street	1	trunk	johnson-street	#a1887f	1.8	0.82	806.8092160730546
+Murdoch Drive		primary	murdoch-drive	#bca79f	1.4	0.78	8628.435424741429
+Odin Road		primary	odin-road	#bca79f	1.4	0.78	1662.2954552093174
+Lloyd Street		primary	lloyd-street	#bca79f	1.4	0.78	4147.330336587784
+Great Northern Highway	1;95;203	trunk	great-northern-highway	#a1887f	1.8	0.82	41362.0475762277
+Southern River Road		primary	southern-river-road	#bca79f	1.4	0.78	9826.767215448905
+Spring Road		primary	spring-road	#bca79f	1.4	0.78	1149.6531216563303
+Abernethy Road	55	primary	abernethy-road	#bca79f	1.4	0.78	8604.50098640467
+Russell Street		primary	russell-street	#bca79f	1.4	0.78	2379.743239881689
+Toodyay Road	50	primary	toodyay-road	#bca79f	1.4	0.78	9861.82917742444
+Garden Street		primary	garden-street	#bca79f	1.4	0.78	6296.871973896922
+Stoneham Street	55	primary	stoneham-street	#bca79f	1.4	0.78	503.7058937780491
+Dixon Road	22	primary	dixon-road	#bca79f	1.4	0.78	8359.800644429237
+Bannister Road		primary	bannister-road	#bca79f	1.4	0.78	9804.451518918166
+Ord Street	12	primary	ord-street	#bca79f	1.4	0.78	421.69389620264053
+Collier Link		primary	collier-link	#bca79f	1.4	0.78	2121.170692564461
+Embleton Avenue		primary	embleton-avenue	#bca79f	1.4	0.78	1757.6402876901789
+Jandakot Road		primary	jandakot-road	#bca79f	1.4	0.78	7854.65734951755
+Yale Road		primary	yale-road	#bca79f	1.4	0.78	2728.158690265981
+Woodrow Avenue		primary	woodrow-avenue	#bca79f	1.4	0.78	2565.50436745585
+Council Avenue		primary	council-avenue	#bca79f	1.4	0.78	3640.5817797314894
+Whatley Crescent		primary	whatley-crescent	#bca79f	1.4	0.78	5491.710223340603
+Watkins Road	22	primary	watkins-road	#bca79f	1.4	0.78	2376.0411156025793
+Stephenson Avenue	64	primary	stephenson-avenue	#bca79f	1.4	0.78	4126.799942817447
+Mundaring Weir Road	207	primary	mundaring-weir-road	#bca79f	1.4	0.78	6774.801335818496
+Meadow Street	52;203	primary	meadow-street	#bca79f	1.4	0.78	993.6328122995762
+Centenary Avenue		primary	centenary-avenue	#bca79f	1.4	0.78	2132.2976963083156
+Birdiya Drive	5	trunk	birdiya-drive	#a1887f	1.8	0.82	1920.495014820905
+Tydeman Road	204	primary	tydeman-road	#bca79f	1.4	0.78	2107.9676902305746
+Drumpellier Drive		primary	drumpellier-drive	#bca79f	1.4	0.78	17768.03393814458
+Airport Drive		primary	airport-drive	#bca79f	1.4	0.78	4912.202660205177
+The Promenade		primary	the-promenade	#bca79f	1.4	0.78	1167.357595621921
+Brady Street		primary	brady-street	#bca79f	1.4	0.78	1686.888001059897
+Walter Place	204	primary	walter-place	#bca79f	1.4	0.78	458.3408143200504
+Muchea South Road	85;359	primary	muchea-south-road	#bca79f	1.4	0.78	688.8660377041813
