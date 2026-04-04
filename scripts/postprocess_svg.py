@@ -54,7 +54,7 @@ STYLE_BLOCK = """\
 
 /* Road styling by classification - bold and prominent */
 #roads path { fill: none; }
-.primary  { stroke: #707070; stroke-width: 1.2; opacity: 1; }
+.primary  { stroke: #707070; stroke-width: 1.0; opacity: 1; }
 .trunk    { stroke: #505050; stroke-width: 1.8; opacity: 1; }
 .motorway { stroke: #303030; stroke-width: 2.4; opacity: 1; }
 
